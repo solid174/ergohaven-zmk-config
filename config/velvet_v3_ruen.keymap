@@ -22,7 +22,7 @@
 
         cmbemoji {
             bindings = <&kp LG(DOT)>;
-            key-positions = <37 34>;
+            key-positions = <34 38>;
         };
     };
 
