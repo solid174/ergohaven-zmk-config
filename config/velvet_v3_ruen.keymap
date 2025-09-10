@@ -23,7 +23,7 @@
         cmbemoji {
             bindings = <&kp LG(DOT)>;
             key-positions = <34 38>;
-            layers = <0 2>;
+            layers = <0 1>;
         };
 
         cmbcombo {
